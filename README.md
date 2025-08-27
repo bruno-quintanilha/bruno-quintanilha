@@ -19,7 +19,9 @@
 
 ### 📌 **Projetos em Destaque**  
 - [🏴‍☠️ Projeto One Piece](https://bruno-quintanilha.github.io/projeto-one-piece/) - Página temática (usado para estudar HTML/CSS)  
-- [🚀 Projeto de Testes Manuais](https://github.com/bruno-quintanilha/Curso-Teste-Software-Manual-QualitersClub/tree/main) - Casos de testes  
+- [🚀 Projeto de Testes Manuais](https://github.com/bruno-quintanilha/Curso-Teste-Software-Manual-QualitersClub/tree/main) - Casos de testes
+- [⭐ Curso JavaScript para QAs](https://github.com/bruno-quintanilha/curso-Javascript-para-QAs) - Aprendizado JavaScript
+- [💻 Projeto E-commerce API - Testes Automatizados com Postman](https://github.com/bruno-quintanilha/Projeto-E-commerce-API-Testes-Automatizado-com-Postman) - Aprendizado de testes automatizados de APIs REST usando o Postman.
 
 ### 📫 **Contato**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-quintanilha-qa/)

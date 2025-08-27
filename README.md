@@ -19,7 +19,7 @@
 
 ### 📌 **Projetos em Destaque**  
 - [🏴‍☠️ Projeto One Piece](https://bruno-quintanilha.github.io/projeto-one-piece/) - Página temática (usado para estudar HTML/CSS)  
-- [🚀 Projeto de Testes Manuais](link-do-repositório) - Casos de teste para [app X]  
+- [🚀 Projeto de Testes Manuais](https://github.com/bruno-quintanilha/Curso-Teste-Software-Manual-QualitersClub/tree/main) - Casos de testes  
 
 ### 📫 **Contato**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-quintanilha-qa/)

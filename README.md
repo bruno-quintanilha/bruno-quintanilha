@@ -6,6 +6,7 @@
 </div>
 
 - Estudando Ciência da Computação na [Estácio](https://estacio.br/)
+- Quality Assurance
 - Saquarema, RJ - Brazil
 
 <p></p>

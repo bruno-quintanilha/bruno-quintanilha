@@ -1,9 +1,18 @@
+<h1>👋 Olá, eu sou o Bruno Quintanilha!  <img src="[https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif?cid=ecf05e471qbfjxmtkt427wuv4hoi1xxt66llpcwvrtv4qd0n&ep=v1_gifs_related&rid=giphy.gif&ct=s](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemMzbXE0bWlvYzV4NHY4aWY5YTlhMGNvY29uamlwcHQ3anFyZmUyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oK257YkUTwuWc/giphy.gif)" width="35"></h2>
+<div style="display: inline-block;">
+    <a href="marjorymel48@gmail.com"><img src="https://img.shields.io/badge/Email-FFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/marjorymell" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
+    <a href="https://discordapp.com/users/marjorymel" target="_blank"><img src="https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"></a>
+</div>
+
+
+
 # 👋 Olá, eu sou o Bruno Quintanilha!  
 
 🔍 **Futuro QA Analyst | Aspirante a Especialista em Testes**  
 📍 Rio de Janeiro, Brasil  
 
-<div> <a href="https://github.com/bruno-quintanilha"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-quintanilha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-quintanilha&layout=compact&langs_count=6&theme=tokyonight"/> </div> <div style="display: inline_block"><br> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
+<div> <a  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
 
 ### 🛠 **Habilidades Técnicas**  
 ![Testing](https://img.shields.io/badge/Testing-Expertise-important?style=flat&logo=testing-library&logoColor=white)

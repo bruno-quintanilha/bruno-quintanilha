@@ -1,8 +1,8 @@
-<h1>👋 Olá, eu sou o Bruno Quintanilha!  <img src="https://media.giphy.com/media/AlFR9iEVS3ZqBoOml9/giphy.gif" width="35"></h2>
+<h1> Olá, eu sou o Bruno Quintanilha!  <img src="https://media.giphy.com/media/AlFR9iEVS3ZqBoOml9/giphy.gif" width="35"></h2>
 <div style="display: inline-block;">
-    <a href="marjorymel48@gmail.com"><img src="https://img.shields.io/badge/Email-FFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
-    <a href="https://www.linkedin.com/in/marjorymell" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
-    <a href="https://discordapp.com/users/marjorymel" target="_blank"><img src="https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"></a>
+    <a href="brunoqsousa01@gmail.com"><img src="https://img.shields.io/badge/Email-FFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/bruno-quintanilha1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
+    <a href="https://discordapp.com/users/brunoqsousa" target="_blank"><img src="https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"></a>
 </div>
 
 

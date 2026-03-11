@@ -1,4 +1,4 @@
-<h1>👋 Olá, eu sou o Bruno Quintanilha!  <img src="[https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif?cid=ecf05e471qbfjxmtkt427wuv4hoi1xxt66llpcwvrtv4qd0n&ep=v1_gifs_related&rid=giphy.gif&ct=s](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemMzbXE0bWlvYzV4NHY4aWY5YTlhMGNvY29uamlwcHQ3anFyZmUyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oK257YkUTwuWc/giphy.gif)" width="35"></h2>
+<h1>👋 Olá, eu sou o Bruno Quintanilha!  <img src="[https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif?cid=ecf05e471qbfjxmtkt427wuv4hoi1xxt66llpcwvrtv4qd0n&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="35"></h2>
 <div style="display: inline-block;">
     <a href="marjorymel48@gmail.com"><img src="https://img.shields.io/badge/Email-FFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
     <a href="https://www.linkedin.com/in/marjorymell" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>

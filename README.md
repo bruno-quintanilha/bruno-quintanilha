@@ -11,4 +11,4 @@
 
 <p></p>
 <h2>Languages and Tools <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx1OG9mdnZsYjVzb2UxMTljNTV6NndpdmV3dzhycTlxYXkxajFjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ue7Oh8WdVspgI/giphy.gif" width="60"> </h2>
-<img src="https://skillicons.dev/icons?i=javascript,html,git,css,vscode,github,java,cypress" />
+<img src="https://skillicons.dev/icons?i=javascript,html,git,css,vscode,github,cypress" />
